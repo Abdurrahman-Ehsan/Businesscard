@@ -1,0 +1,24 @@
+
+.business-card {
+  width: 400px;
+  margin-left: auto;
+  margin: 250px auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background: #ddebf8;
+  border-bottom: 10px solid #d8cefe;
+  border-top: 10px solid #d8cefe;
+  border-left: 10px solid #d98c8c;
+  border-right: 10px solid #d98c8c;
+  color: gray;
+  text-shadow: 5px 5px 5px #ccc;
+  text-align: center;
+  font-size: 14px;
+  font-family: arial, verdana, tahoma, sans-serif;
+}
+
+
+.dotted {
+  border: 1px dotted powderblue;
+}
